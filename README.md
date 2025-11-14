@@ -1,8 +1,6 @@
 # Introduction-to-C-programme-
 
 
-
-Introduction to C Programming Basics
 C programming is the universal remote for computers—sleek, compact, and sometimes confusingly powerful. In this short guide, we jump into the logical (and sometimes dimensional) mix-up that makes C both classic and spicy, perfect for sharp minds who like their code with a twist.
 
 C is foundational. At its core, C gives you key ingredients for any computing recipe: data types (like "int" for numbers and "char" for letters), variables for storage, operators for action, and control flows that let you steer your program's decisions and loops.
